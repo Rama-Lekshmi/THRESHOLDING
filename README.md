@@ -48,8 +48,8 @@ End the program.
 
 ```python
 
-Developed By: Javith Farkhan S
-Register Number:212221240017
+Developed By: Rama E. K. Lekshmi
+Register Number:212222240082
 Program to segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
 ```
