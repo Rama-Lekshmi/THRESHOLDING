@@ -1,4 +1,4 @@
-# Thresholding-of-Images...
+# EXP-9 RECORD-THRESHOLDING
 
 ## Aim:
 
